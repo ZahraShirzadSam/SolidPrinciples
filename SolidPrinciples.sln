@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-OCP-Principle", "2-OCP-Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP-Principle", "OCP-Principle\OCP-Principle.csproj", "{59CC0372-204E-42F1-8F5C-05C11F02CE56}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-LSP-Principle", "3-LSP-Principle", "{594EE4B2-86EC-4C2A-B806-2E25B5E44858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP-Principle", "LSP-Principle\LSP-Principle.csproj", "{0BA471BD-86F5-4D9B-8031-14480850662F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{59CC0372-204E-42F1-8F5C-05C11F02CE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59CC0372-204E-42F1-8F5C-05C11F02CE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59CC0372-204E-42F1-8F5C-05C11F02CE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA471BD-86F5-4D9B-8031-14480850662F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA471BD-86F5-4D9B-8031-14480850662F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA471BD-86F5-4D9B-8031-14480850662F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA471BD-86F5-4D9B-8031-14480850662F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{86B0762E-D9C0-4768-9F63-568418A9FAAB} = {69D04C49-839D-4045-9800-1C5FA40B98AA}
 		{59CC0372-204E-42F1-8F5C-05C11F02CE56} = {6C333810-6B26-4A1D-A97E-68B4B768B1BE}
+		{0BA471BD-86F5-4D9B-8031-14480850662F} = {594EE4B2-86EC-4C2A-B806-2E25B5E44858}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {170BAB18-D806-499D-98B7-A3905C82363B}
