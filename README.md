@@ -19,19 +19,15 @@ D - Dependency Inversion Principle(DIP)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 1-Single-responsibility Principle (SRP) :
 * A class should have one and only one reason to change, meaning that a class should have only one job.
-
 This means that if a class is a data container, like a Book class or a Student class, and it has some fields regarding that entity, it should change only when we change the data model.
 Second, it makes version control easier. For example, say we have a persistence class that handles database operations, and we see a change in that file in the GitHub commits. By following the SRP, we will know that it is related to storage or database-related stuff.
-/////مثال ثبت کتاب یا مثال ثبت یوزر و لاگ
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 2-Open-closed Principle(O/CP) :
  *  Objects or entities should be open for extension but closed for modification.
-
 So what this principle wants to say is: We should be able to add new functionality without touching the existing code for the class. This is because whenever we modify the existing code, we are taking the risk of creating potential bugs. So we should avoid touching the tested and reliable (mostly) production code if possible.
 It is usually done with the help of interfaces and abstract classes.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 3-Liskov Substitution Principle(LSP)
-
 * Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T.
 This means that every subclass or derived class should be substitutable for their base or parent class.
 * The Liskov Substitution Principle states that subclasses should be substitutable for their base classes.
