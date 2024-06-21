@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-SRC-Principle", "1-SRC-Principle", "{69D04C49-839D-4045-9800-1C5FA40B98AA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple", "{69D04C49-839D-4045-9800-1C5FA40B98AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRC-Principle", "SRC-Principle\SRC-Principle.csproj", "{86B0762E-D9C0-4768-9F63-568418A9FAAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrinciple", "SRC-Principle\SingleResponsibilityPrinciple.csproj", "{86B0762E-D9C0-4768-9F63-568418A9FAAB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-OCP-Principle", "2-OCP-Principle", "{6C333810-6B26-4A1D-A97E-68B4B768B1BE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenClosedPrinciple", "OpenClosedPrinciple", "{6C333810-6B26-4A1D-A97E-68B4B768B1BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP-Principle", "OCP-Principle\OCP-Principle.csproj", "{59CC0372-204E-42F1-8F5C-05C11F02CE56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "OCP-Principle\OpenClosedPrinciple.csproj", "{59CC0372-204E-42F1-8F5C-05C11F02CE56}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-LSP-Principle", "3-LSP-Principle", "{594EE4B2-86EC-4C2A-B806-2E25B5E44858}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple", "{594EE4B2-86EC-4C2A-B806-2E25B5E44858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP-Principle", "LSP-Principle\LSP-Principle.csproj", "{0BA471BD-86F5-4D9B-8031-14480850662F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LSP-Principle\LiskovSubstitutionPrinciple.csproj", "{0BA471BD-86F5-4D9B-8031-14480850662F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-ISP-Principle", "4-ISP-Principle", "{52BF95FD-06B2-4254-9F9F-0F2CB18042AC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple", "{52BF95FD-06B2-4254-9F9F-0F2CB18042AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP-Principle", "ISP-Principle\ISP-Principle.csproj", "{BB67774D-9395-485E-A750-894F3027B685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrinciple", "ISP-Principle\InterfaceSegregationPrinciple.csproj", "{BB67774D-9395-485E-A750-894F3027B685}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-DIP-Principle", "5-DIP-Principle", "{862A7336-FFB2-4276-8F9B-939286C664FB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple", "{862A7336-FFB2-4276-8F9B-939286C664FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP-Principle", "DIP-Principle\DIP-Principle.csproj", "{EE27E12B-F518-4001-B977-6E1F0BF45C1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionPrinciple", "DIP-Principle\DependencyInversionPrinciple.csproj", "{EE27E12B-F518-4001-B977-6E1F0BF45C1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
