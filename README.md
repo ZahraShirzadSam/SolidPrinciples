@@ -1,4 +1,4 @@
-# SolidPrinciples
+# SOLID Principles
 Interduction:
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin
 These principles establish practices for developing software with considerations for maintaining and extending it as the project grows. Adopting these practices can also help avoid code smells, refactor code, and develop Agile or Adaptive software.
