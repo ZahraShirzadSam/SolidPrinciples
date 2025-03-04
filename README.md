@@ -8,7 +8,6 @@
 
 
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin
-
 These principles establish practices for developing software with considerations for maintaining and extending it as the project grows. Adopting these practices can also help avoid code smells, refactor code, and develop Agile or Adaptive software.
 These five principles help us understand the need for certain design patterns and software architecture in general. So I believe that it is a topic that every developer should learn.
 "To create understandable, readable, and testable code that many developers can collaboratively work on."
