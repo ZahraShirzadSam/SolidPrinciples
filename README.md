@@ -1,4 +1,5 @@
 # SOLID Principles
+![solid3](https://github.com/user-attachments/assets/c1c2e793-deee-4d67-a1f6-cd5d5c5ec537)
 
 ![solid3](https://github.com/user-attachments/assets/bcc9fbc5-3442-4e8b-9e4d-3158572e4683)
 
