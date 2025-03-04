@@ -1,6 +1,6 @@
 # SOLID Principles
 <div align="center">
-  <img src="https://i.imgur.com/8BgVXcY.png](https://github.com/ZaraSam/SolidPrinciples/assets/136806163/35934e97-036e-45db-aafb-205835c67364">
+  <img src="https://github.com/ZaraSam/SolidPrinciples/assets/136806163/35934e97-036e-45db-aafb-205835c67364">
 </div>
 
 ![download](https://github.com/ZaraSam/SolidPrinciples/assets/136806163/35934e97-036e-45db-aafb-205835c67364)
