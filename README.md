@@ -1,5 +1,5 @@
 # SOLID Principles
-![Solid 2](https://github.com/user-attachments/assets/005e0737-331e-4929-9c69-9d313be3a997)
+
 
 ![download](https://github.com/ZaraSam/SolidPrinciples/assets/136806163/35934e97-036e-45db-aafb-205835c67364)
 
