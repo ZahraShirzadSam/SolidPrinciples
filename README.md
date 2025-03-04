@@ -24,7 +24,7 @@ Let's look at each principle one by one. Following the SOLID acronym, they are:
 - D - Dependency Inversion Principle(DIP)
 
 
-## Single-responsibility Principle (SRP) :
+## Single-responsibility Principle (SRP) 
 * A class should have one and only one reason to change, meaning that a class should have only one job.
 This means that if a class is a data container, like a Book class or a Student class, and it has some fields regarding that entity, it should change only when we change the data model.
 Second, it makes version control easier. For example, say we have a persistence class that handles database operations, and we see a change in that file in the GitHub commits. By following the SRP, we will know that it is related to storage or database-related stuff.
@@ -43,11 +43,11 @@ Therefore, when a class does not obey this principle, it leads to some nasty bug
 Liskov's principle is easy to understand but hard to detect in code. 
 “Derived or child classes must be substitutable for their base or parent classes“.
 
-## Interface Segregation Principle(ISP) :
+## Interface Segregation Principle(ISP) 
 * A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.
 This principle is the first principle that applies to Interfaces instead of classes in SOLID and it is similar to the single responsibility principle. It states that “do not force any client to implement an interface which is irrelevant to them“. Here your main goal is to focus on avoiding fat interface and give preference to many small client-specific interfaces. You should prefer many client interfaces rather than one general interface and each interface should have a specific responsibility.
 
-## Dependency Inversion Principle(DIP) :
+## Dependency Inversion Principle(DIP) 
 * It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
 "If the OCP states the goal of OO architecture, the DIP states the primary mechanism".
 These two principles are indeed related and we have applied this pattern before while we were discussing the Open-Closed Principle.
