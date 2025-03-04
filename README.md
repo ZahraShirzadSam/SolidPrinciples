@@ -1,8 +1,10 @@
 # SOLID Principles
 
 <div align="center">
-  <img width = "33%" src="https://github.com/ZaraSam/SolidPrinciples/assets/136806163/35934e97-036e-45db-aafb-205835c67364">
+  <img width = "55%" src="https://github.com/ZaraSam/SolidPrinciples/assets/136806163/35934e97-036e-45db-aafb-205835c67364">
 </div>
+
+
 
 
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin
